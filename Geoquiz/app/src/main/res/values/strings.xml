@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Geoquiz</string>
+    <string name="falso_bnt">Falso</string>
+    <string name="verdadero_bnt">Verdadero</string>
+    <string name="correcto">Correcto!!</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="pregunta_1">La capital de Ecuador es Quito</string>
+    <string name="pregunta_2">Ella te ama Responde con sinceridad</string>
+    <string name="pregunta_3">Goku es mas fuerte de todos</string>
+    <string name="pregunta_4">Te gusta el Encebollado</string>
+    <string name="pregunta_5">Te gusta ser rechazado en el amor</string>
+
+</resources>
